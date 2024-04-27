@@ -20,4 +20,6 @@ const data = [
         "section": "Centro C."        
     }
 ]
-export default data
+
+
+export {data}
